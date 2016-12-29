@@ -1,0 +1,8 @@
+C:\Users\rotem_000\Documents\GitHub\Database-HW\Database-HW\Database-HW\bin\Debug\Database-HW.exe.config
+C:\Users\rotem_000\Documents\GitHub\Database-HW\Database-HW\Database-HW\bin\Debug\Songs.mdf
+C:\Users\rotem_000\Documents\GitHub\Database-HW\Database-HW\Database-HW\bin\Debug\Songs_log.ldf
+C:\Users\rotem_000\Documents\GitHub\Database-HW\Database-HW\Database-HW\bin\Debug\Database-HW.exe
+C:\Users\rotem_000\Documents\GitHub\Database-HW\Database-HW\Database-HW\bin\Debug\Database-HW.pdb
+C:\Users\rotem_000\Documents\GitHub\Database-HW\Database-HW\Database-HW\obj\Debug\Database-HW.csprojResolveAssemblyReference.cache
+C:\Users\rotem_000\Documents\GitHub\Database-HW\Database-HW\Database-HW\obj\Debug\Database-HW.exe
+C:\Users\rotem_000\Documents\GitHub\Database-HW\Database-HW\Database-HW\obj\Debug\Database-HW.pdb
